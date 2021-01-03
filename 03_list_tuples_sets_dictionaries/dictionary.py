@@ -7,4 +7,5 @@ student = {
 }
 
 print('Tipo:', type(student))  # dict
-print('Student:', student['nome'])
+
+print('Student:', student['nome'])  # Gabriel

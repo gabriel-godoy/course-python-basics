@@ -7,7 +7,6 @@ print(a+b)
 
 texto = 'Sua idade é... '
 idade = 23
-
 print(texto + str(idade))
 
 print(f'Sua idade é {idade}')

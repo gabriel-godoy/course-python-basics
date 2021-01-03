@@ -1,5 +1,9 @@
 #!python3
 
+# List items are ordered, changeable, and allow duplicate values.
+# You can modify a list, adding and removing items
+someList = ["Bob", "Rolf", "Anne"]
+
 nums = [1, 2, 3]
 
 print('Type: ', type(nums))  # list

@@ -11,8 +11,7 @@ def calculate(*values, operator):
 
 
 result = calculate(20, 4, operator=divide)
-
-print(result)
+print('result: ', result)  # 5.0
 
 
 #

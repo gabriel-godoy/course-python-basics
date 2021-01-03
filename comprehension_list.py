@@ -1,6 +1,7 @@
 #!python3
 
-# With list comprehension a new list is generated
+# List comprehension offers a shorter syntax when you want to create a new list
+# based on the values of an existing list
 
 numbers = [1, 3, 5]
 doubled = [num * 2 for num in numbers]      # [2, 6, 10]
